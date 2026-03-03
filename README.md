@@ -1,3 +1,4 @@
+# MyCLI
 mycli — multi-utility CLI
 
 Overview
@@ -54,10 +55,6 @@ Notes
 
 - The test suite uses `vitest` and runs against TypeScript sources.
 - For API-dependent commands (`weather`, `github`, `quote`, `joke`) a working internet connection is required.
-
-# MyCLI
-
-A multi-purpose command line tool built with Node.js and TypeScript.
 
 ## Setup
 
